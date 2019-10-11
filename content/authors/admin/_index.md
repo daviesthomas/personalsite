@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Sr. Research Engineer & MsC Canditate at UofT
+role: Sr. Research Engineer <br/>& MsC Candidate at UofT
 
 # Organizations/Affiliations
 organizations:
@@ -20,16 +20,16 @@ organizations:
   url: "https://www.dgp.toronto.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include geometric deep learning, democratizing simulation, and geometry processing.
 
 interests:
 - Machine learning
 - Geometric Deep learning
-- Manufacturing!
+- Simulation
 
 education:
   courses:
-  - course: MsC in 
+  - course: MsC in Geometry Processing and Deep Learning
     institution: University Of Toronto
     year: 2020
   - course: BSc in Electrical Engineering
@@ -44,15 +44,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://linkedin.com/in/thomasdaviestrd/ 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/daviesthomas
+- icon: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
