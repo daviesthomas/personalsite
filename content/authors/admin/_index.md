@@ -74,7 +74,7 @@ I'm currently working as a Sr. Research Engineer at Autodesk while pursuing my i
 
 My work at Autodesk revolves around applying (and extending) emerging deep learning research to the problems of our customers  before deploying it into product. While my research at the UofT Dynamic Graphics Project lab currently focuses on novel approaches to mesh compression and stylization using deep learning.
 
-In my recently limited free time I like to hike, scuba dive, tackle goal scorers, and block spikes. 
+In my recently limited free time I like to hike, scuba dive, tackle goal scorers, block spikes, read sci-fi and pet peoples dogs. 
 
 
 
