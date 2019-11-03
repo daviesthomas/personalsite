@@ -70,9 +70,9 @@ user_groups:
 
 I like working on large technical projects, creating practial products from ambiguous (and often changing) requirements, converting messy or chaotic technical landscapes to clean systems, and taking R&D projects all the way from conception to shipment. I an happiest living at the intersection of research and product, applying emerging 
 
-I'm currently working as a Sr. Research Engineer at Autodesk while pursuing my interests in computer graphics throught a research based masters in computer science under <a href=https://www.cs.toronto.edu/~jacobson> Alec Jacobson </a>. 
+I'm currently working as a Sr. Research Engineer at Autodesk while pursuing my interests in computer graphics through a research based masters in computer science at UofT under <a href=https://www.cs.toronto.edu/~jacobson> Alec Jacobson </a>. 
 
-My work at Autodesk focuses on taking emerging research in the field of deep learning and applying (and extending) it to solve our customers problems. While my research at the UofT Dynamic Graphics Project lab currently focuses on novel approaches to mesh compression and stylization using deep learning.
+My work at Autodesk focuses on taking emerging research in the field of deep learning and applying (extending) it to solve our customers problems before deploying it into product. While my research at the UofT Dynamic Graphics Project lab currently focuses on novel approaches to mesh compression and stylization using deep learning.
 
 In my recently limited free time I like to hike, scuba dive, tackle goal scorers, and block spikes. 
 
