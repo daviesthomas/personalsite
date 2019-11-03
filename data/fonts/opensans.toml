@@ -1,0 +1,8 @@
+name = "Open Sans"
+
+google_fonts = "Lato|Open+Sans"
+
+heading_font = "Lato"
+body_font = "Open Sans"
+nav_font = "Lato"
+mono_font = "Roboto Mono"
