@@ -20,12 +20,13 @@ organizations:
   url: "https://www.dgp.toronto.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include geometric deep learning, democratizing simulation, and geometry processing.
+bio: I like working on big messy research projects and delivering clean solutions to product.
 
 interests:
-- Machine learning
+- Machine learning platforms and infrastructure
+- Research prototyping and Technology Transfer
+- Graphics and Animation ( 3D geometry processing, Data Analysis, Numerical Optimization)
 - Geometric Deep learning
-- Simulation
 
 education:
   courses:
@@ -67,6 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I like working on large technical projects, creating practial products from ambiguous (and often changing) requirements, converting messy or chaotic technical landscapes to clean systems, and taking R&D projects all the way from conception to shipment. I like to live at the intersection of research and product, happily reading papers and writing product code.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
