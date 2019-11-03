@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Sr. Research Engineer <br/>& MsC Candidate at UofT
+role: Sr. Research Engineer <br/>&<br/> MsC Candidate at UofT
 
 # Organizations/Affiliations
 organizations:
