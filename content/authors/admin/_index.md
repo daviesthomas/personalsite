@@ -78,4 +78,3 @@ My research masters with Alec Jacobson initially revolved around overfitting neu
 
 I play soccer and volleyball. Love to hike and camp. Read Sci-fi. Eat good food. And Hope to one day own a dog. 
 
-I love my job, but am aware there may be better ones. If you think I'm a good fit, shoot me a message, I always respond. 
