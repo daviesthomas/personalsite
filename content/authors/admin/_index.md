@@ -20,7 +20,7 @@ organizations:
   url: "https://www.dgp.toronto.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like working on big messy research projects and delivering clean solutions to product.
+bio: I like working on hard problems, delivering cool and impactful solutions!
 
 interests:
 - Machine learning platforms and infrastructure
