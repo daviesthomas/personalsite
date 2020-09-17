@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Autodesk"
   company_url = "https://www.autodesk.com/"
   location = "Toronto"
-  date_start = "2016-09-01"
+  date_start = "2018-06-01"
   date_end = ""
   description = """Engineering Team Lead for a machine learning research group within the Fusion 360 product group. The mission of the Fusion 360 Machine Learning team is to create a path to using latest machine learning technology to turn the data produced across the product development process into new value for our customers, through intelligent automations and augmentations. """
   
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "https://www.autodesk.com/"
   location = "Toronto"
   date_start = "2016-09-01"
-  date_end = ""
+  date_end = "2018-06-01"
   description = """Working on a team that develops concepts for future product offerings in collaboration with our customers and product teams. Investigating the application of deep learning techniques including CNN, RNN, GAN and RL to problems affecting Autodesk customers.
 
 Worked on building a smart robotic assembly systems using machine learned vision, visual servos and force/torque sensing strategies. Primarily learning in simulation and transferring models to work in real environments."""
