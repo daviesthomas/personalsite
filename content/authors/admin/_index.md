@@ -68,14 +68,14 @@ user_groups:
 - Visitors
 ---
 
-I like working on large technical projects, creating practial products from ambiguous (and often changing) requirements, converting messy or chaotic technical landscapes to clean systems, and taking R&D projects all the way from conception to shipment. 
+Hi. I'm Tom. I like to work on large technical projects, creating practical solutions from ambiguos (and fluid) requirements, converting messy and chaotic technical landscapes to clean systems, and taking R&D projects all the way from conception to shipment.
 
 I'm currently working as a Sr. Research Engineer at Autodesk while pursuing my interests in computer graphics through a research based masters in computer science at UofT under <a href=https://www.cs.toronto.edu/~jacobson> Alec Jacobson </a>. 
 
-My work at Autodesk revolves around applying (and extending) emerging deep learning research to the problems of our customers  before deploying it into product. While my research at the UofT Dynamic Graphics Project lab currently focuses on novel approaches to mesh compression and stylization using deep learning.
+At Autodesk I work as a Sr. Machine Learning researcher focused on exploring how emerging research in Deep Learning can be applied to solve our customers problems. I've successfully deployed three ML features, act as tech manager leading 4 developers, and have two patents. 
 
-In my recently limited free time I like to hike, scuba dive, tackle goal scorers, block spikes, read sci-fi and pet peoples dogs. 
+My research masters with Alec Jacobson initially revolved around overfitting neural networks to geometries implicit functions as a compact shape representation (it was alot of fun, here's the paper: ). Now I'm interested in exploring approaches to simplify the process of creative 3D design, currently focused on intuitive sketch to 3D interfaces to help and guide users to viable design options (this is also fun). 
 
+I play soccer and volleyball. Love to hike and camp. Read Sci-fi. Eat good food. And Hope to one day own a dog. 
 
-
-
+I love my job, but am aware there may be better ones. If you think I'm a good fit, shoot me a message, I always respond. 
